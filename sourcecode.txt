@@ -1,0 +1,5 @@
+main
+{
+	declare int a = 23+54;
+	return 0;
+};
